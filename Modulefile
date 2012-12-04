@@ -8,5 +8,5 @@ license 'Apache'
 project_page 'https://github.com/stephenrjohnson/puppetlabs-puppet'
 ## Add dependencies, if any:
 dependency 'cprice404/inifile', '>= 0.0.2'
-dependency 'puppetlabs/apache', '>= 0.2.2'
+#dependency 'puppetlabs/apache', '>= 0.2.2'
 dependency 'puppetlabs/puppetdb', '>= 1.0.3'
